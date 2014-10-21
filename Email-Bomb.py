@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#pybombmail.py by Soufian-Hamada
+#Email-Bomber.py by Soufian-Hamada
 #This code for education purpose only.
 #Use it at your own risk !!!
 
